@@ -1,3 +1,26 @@
+## 📚 Table of Contents
+
+1. [🩺 Healthcare Data Analysis Dashboard (Power BI Project)](#-healthcare-data-analysis-dashboard-power-bi-project)
+2. [📌 Overview](#-overview)
+3. [📥 Dataset Information](#-dataset-information)
+4. [🛠️ Tools & Technologies](#️-tools--technologies)
+5. [🔍 Objectives](#-objectives)
+6. [🧪 Methodology](#-methodology)
+   - [Data Cleaning & Transformation](#1-data-cleaning--transformation)
+   - [Data Modeling](#2-data-modeling)
+   - [Dashboard Design](#3-dashboard-design)
+7. [📊 Dashboard Pages & Key Insights](#-dashboard-pages--key-insights)
+   - [Page 1: Healthcare Overview](#-page-1-healthcare-overview)
+   - [Page 2: Medical Insights](#-page-2-medical-insights)
+   - [Page 3: Insurance & Financials](#-page-3-insurance--financials)
+8. [💡 Recommendations](#-recommendations)
+9. [🌐 Live Demo](#-live-demo)
+10. [📎 Contact](#-contact)
+
+
+
+
+
 # 🩺 Healthcare Data Analysis Dashboard (Power BI Project)
 
 ## 📌 Overview
@@ -71,17 +94,24 @@ This project explores patient demographics, medical conditions, financial billin
   - Gender Split
   - Blood Type Test Results
   - Geographic distribution map
+![healthcare overview dashboard](https://github.com/user-attachments/assets/445a7ed7-3d4c-4922-82bf-566fd6b31141)
+
 
 ### 📍 Page 2: Medical Insights
 - Top 5 Medications: Lipitor, Ibuprofen, etc.
 - 55% of test results are **abnormal**
 - Female patients show higher condition counts
 - Treemap of billing by condition
+![medical insight](https://github.com/user-attachments/assets/18f717df-1c60-44d3-afdc-90e82b1cfb9a)
 
+  
 ### 📍 Page 3: Insurance & Financials
 - Billing trends from **2019–2024**
 - Top insurance: **Medicare**
 - Houston Methodist is the highest-billing hospital
+![financial summary](https://github.com/user-attachments/assets/e4852328-a1b3-4ffe-a954-bafd649310a3)
+
+
 
 ---
 
