@@ -94,7 +94,7 @@ This project explores patient demographics, medical conditions, financial billin
   - Gender Split
   - Blood Type Test Results
   - Geographic distribution map
-![healthcare overview dashboard](https://github.com/user-attachments/assets/445a7ed7-3d4c-4922-82bf-566fd6b31141)
+![healthcare overview dashboard](https://github.com/user-attachments/assets/d1c68a96-aca3-4532-99a6-13d519d7b454)
 
 
 ### 📍 Page 2: Medical Insights
@@ -102,14 +102,15 @@ This project explores patient demographics, medical conditions, financial billin
 - 55% of test results are **abnormal**
 - Female patients show higher condition counts
 - Treemap of billing by condition
-![medical insight](https://github.com/user-attachments/assets/18f717df-1c60-44d3-afdc-90e82b1cfb9a)
+![medical insight](https://github.com/user-attachments/assets/43cd1ab9-3d2a-4a7a-a0a0-c108e34f0944)
+
 
   
 ### 📍 Page 3: Insurance & Financials
 - Billing trends from **2019–2024**
 - Top insurance: **Medicare**
 - Houston Methodist is the highest-billing hospital
-![financial summary](https://github.com/user-attachments/assets/e4852328-a1b3-4ffe-a954-bafd649310a3)
+![financial summary](https://github.com/user-attachments/assets/2f385f7a-8259-4725-8c08-53a1afc4a4c5)
 
 
 
