@@ -94,7 +94,8 @@ This project explores patient demographics, medical conditions, financial billin
   - Gender Split
   - Blood Type Test Results
   - Geographic distribution map
-![healthcare overview dashboard](https://github.com/user-attachments/assets/d1c68a96-aca3-4532-99a6-13d519d7b454)
+![healthcare overview dashboard](https://github.com/user-attachments/assets/b573edb3-6a41-4b66-9011-e1f15f125484)
+
 
 
 ### 📍 Page 2: Medical Insights
