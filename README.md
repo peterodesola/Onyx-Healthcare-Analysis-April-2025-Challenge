@@ -132,7 +132,7 @@ This project explores patient demographics, medical conditions, financial billin
 ## 🌐 Live Demo
 
 > ⚡ *This dashboard is available as a Power BI .pbix file. Reach out via [LinkedIn](https://www.linkedin.com/) to request access or view the static images above.*
-> You can also visit Power Bi link to see the interactive dashboard via [[https://app.powerbi.com/view?r=eyJrIjoiNjUyNTE3NzUtNzczMC00Mjg1LTg4ZjUtZjE4YjVmYTZmOGJkIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9]([https://app.powerbi.com/view?r=eyJrIjoiMDk1OTNkMDgtMTE2Ny00ZDdlLWEwM2QtMTIwYzg4NjRhN2QwIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9](https://app.powerbi.com/view?r=eyJrIjoiMDk1OTNkMDgtMTE2Ny00ZDdlLWEwM2QtMTIwYzg4NjRhN2QwIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9))](https://app.powerbi.com/view?r=eyJrIjoiNjUyNTE3NzUtNzczMC00Mjg1LTg4ZjUtZjE4YjVmYTZmOGJkIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9) 
+> You can also visit Power Bi link to see the interactive dashboard via [https://app.powerbi.com/view?r=eyJrIjoiMDk1OTNkMDgtMTE2Ny00ZDdlLWEwM2QtMTIwYzg4NjRhN2QwIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9](https://app.powerbi.com/view?r=eyJrIjoiMDk1OTNkMDgtMTE2Ny00ZDdlLWEwM2QtMTIwYzg4NjRhN2QwIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
 
 ---
 
